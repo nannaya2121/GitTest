@@ -14,6 +14,7 @@ public class Main {
 		System.out.println(".gitignore 파일에 복사붙여넣기");
 		System.out.println(".settings .classpath .project 도 .gitignore파일에 추가하기");
 		System.out.println("Add allfiles 해서 staged Changes 로 변경하기");
+		System.out.println("show in history에서 내가 commint 한 내역을 볼 수 있음.");
 		
 		
 	}
