@@ -25,12 +25,17 @@ public class Main {
 		int addResult = c.add(1, 2);
 		System.out.println(addResult);
 		System.out.println("더하기 모듈 개발 완료");
+		
+		System.out.println("Reject 뜰때는 Pull 로 땡겨온 뒤 수정 후 다시 commit 후 push");
 
 		System.out.println("빼기 모듈도 개발");
 		int subResult = c.subtract(10, 5);
 		System.out.println(subResult);
 		System.out.println("빼기 모듈 개발 완료");
 		
+		System.out.println("다른 팀원 누군가가 적어놓은 30번째 라인(remote)");
+		System.out.println("다른 팀원 누군가가 적어놓은 31번째 라인(remote)");
+		System.out.println("다른 팀원 누군가가 적어놓은 32번째 라인(remote)");
 		
 	}
 
