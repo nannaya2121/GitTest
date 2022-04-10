@@ -27,7 +27,9 @@ public class Main {
 		System.out.println("더하기 모듈 개발 완료");
 
 		
-		
+		System.out.println("다른 팀원 누군가가 적어놓은 30번째 라인(remote)");
+		System.out.println("다른 팀원 누군가가 적어놓은 31번째 라인(remote)");
+		System.out.println("다른 팀원 누군가가 적어놓은 32번째 라인(remote)");
 		
 	}
 
