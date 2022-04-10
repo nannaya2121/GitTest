@@ -39,6 +39,14 @@ public class Main {
 		
 		System.out.println("집에 가서도 일해야지~!");
 		
+		System.out.println("import, Destination 설정 완료 집에서도 일하자");
+		
+		System.out.println("브랜치 따서 곱하기 모듈 만들기");
+		
+		int multiResult = c.multi(3, 5);
+		System.out.println(multiResult);
+		System.out.println("곱하기 모듈 개발 완료");
+		
 	}
 
 }
