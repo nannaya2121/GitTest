@@ -37,6 +37,8 @@ public class Main {
 		System.out.println("다른 팀원 누군가가 적어놓은 31번째 라인(remote)");
 		System.out.println("다른 팀원 누군가가 적어놓은 32번째 라인(remote)");
 		
+		System.out.println("집에 가서도 일해야지~!");
+		
 	}
 
 }
