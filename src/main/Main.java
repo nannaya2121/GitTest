@@ -15,6 +15,7 @@ public class Main {
 		System.out.println(".settings .classpath .project 도 .gitignore파일에 추가하기");
 		System.out.println("Add allfiles 해서 staged Changes 로 변경하기");
 		System.out.println("show in history에서 내가 commint 한 내역을 볼 수 있음.");
+		System.out.println("Git Hub 가서 Repository 하나 생성 후 그곳에 등록하기");
 		
 		
 	}
