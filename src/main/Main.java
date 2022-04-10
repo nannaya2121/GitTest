@@ -26,7 +26,10 @@ public class Main {
 		System.out.println(addResult);
 		System.out.println("더하기 모듈 개발 완료");
 
-		
+		System.out.println("빼기 모듈도 개발");
+		int subResult = c.subtract(10, 5);
+		System.out.println(subResult);
+		System.out.println("빼기 모듈 개발 완료");
 		
 		
 	}
