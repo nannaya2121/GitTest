@@ -20,7 +20,12 @@ public class Main {
 		System.out.println("Git Hub 가서 Repository 하나 생성 후 그곳에 등록하기");
 		
 		System.out.println("브랜치 따서 계산기 모듈 구현해보기");
-		
+
+		Calculator c = new Calculator();
+		int addResult = c.add(1, 2);
+		System.out.println(addResult);
+		System.out.println("더하기 모듈 개발 완료");
+
 		
 		
 		
