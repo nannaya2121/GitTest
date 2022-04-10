@@ -1,5 +1,7 @@
 package main;
 
+import calc.Calculator;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -16,6 +18,16 @@ public class Main {
 		System.out.println("Add allfiles 해서 staged Changes 로 변경하기");
 		System.out.println("show in history에서 내가 commint 한 내역을 볼 수 있음.");
 		System.out.println("Git Hub 가서 Repository 하나 생성 후 그곳에 등록하기");
+		
+		System.out.println("브랜치 따서 계산기 모듈 구현해보기");
+		Calculator calc = new Calculator();
+		int addResult = calc.add(1, 2);
+		System.out.println(addResult);
+		System.out.println("모듈이 완료되면 switch to 에 가서 다시 master로 변경 뒤 merge 하기");
+		System.out.println("또다른 모듈 개발 완료");
+		int subResult = calc.subtract(2, 1);
+		System.out.println(subResult);
+		
 		
 		
 	}
